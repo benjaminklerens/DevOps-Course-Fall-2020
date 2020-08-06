@@ -29,7 +29,7 @@
 |                         |
 |                         |
 |                         |
-|     VERY NICE HOUSE     |                             ^o woof                                          ^c
+|     VERY NICE HOUSE     |                             ^o woof
 |                         |      ###              _____/
 |                         |     #o###            /\  /\
 |     +-----+             |   #####o###          ___________
